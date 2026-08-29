@@ -1,6 +1,6 @@
 <div align="center">
 
-# 📋 User-Behavior-Log-SparkSQL
+# 用户行为日志分析 | User-Behavior-Log-SparkSQL
 
 ### Spark SQL user-behavior log analytics.
 
